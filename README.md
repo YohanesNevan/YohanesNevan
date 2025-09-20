@@ -1,7 +1,7 @@
 # ⚔️ Yohanes Nevan
 
 <p align="center">
-  <img src="https://i.imgur.com/Hx9ZP8z.png" width="600" alt="Gojo Satoru Manga Style">
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/297ELcX"  ><a href="//imgur.com/a/297ELcX">Jujutsu kaisen - gojo satoru</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 # 💻 Tech Stack:
