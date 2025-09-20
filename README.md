@@ -49,5 +49,5 @@
 
 Thanks for Visiting!  
 <p align="center">
-  <img src="https://i.imgur.com/JnN2x3h.jpg" alt="Gojo Manga Panel" height="230" width="90%" />
+  <img src="assets/gjosku.gif" alt="Gojo Manga Panel" height="230" width="90%" />
 </p>
