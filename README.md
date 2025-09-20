@@ -1,6 +1,11 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon Line" >
 
+<h1 align="center">Hello!, I'm Nevan</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YohanesNevan&label=Profile%20views&color=0e75b6&style=flat" alt="EchoGinDev" />
+</p>
+
 <div align="center">
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
