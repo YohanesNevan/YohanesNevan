@@ -1,8 +1,35 @@
-# ⚔️ Yohanes Nevan
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon Line" >
+
+<div align="center">
+  <h2>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
+    Explore my work by visiting my 
+    <a href="https://your-portfolio-link.netlify.app/" target="_blank">3D portfolio</a>
+  </h2>
+</div>
+
+<div align="center">
+  <!-- Ganti gambar berikut dengan panel Gojo manga kamu -->
+  <img src="https://i.imgur.com/Hx9ZP8z.png" alt="Gojo Satoru Manga" style="height: 230px; width: 930px;" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+%F0%9F%91%8B;Informatics+Student;Aspiring+Data+Scientist;Web+Dev+Enthusiast;Software+Engineer" alt="Headline" />
+</div>
+
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://i.imgur.com/Yl3vJ1zl.jpg" width="300" alt="Gojo Satoru Manga">
+  <img src="https://komarev.com/ghpvc/?username=YohanesNevan&color=brightgreen" alt="profile views" />
+  <img src="https://img.shields.io/badge/Age-XX-blue" alt="Age" />
+  <img src="https://img.shields.io/badge/Focus-Web+Dev%2C+Data-green" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-Indonesia-brightgreen" alt="Lives" />
+  <img src="https://img.shields.io/badge/Languages-English%2C+Bahasa+Indonesia-green" alt="Languages" />
 </p>
+
+<hr>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -22,10 +49,14 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YohanesNevan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YohanesNevan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Thanks for Visiting!  
+<p align="center">
+  <img src="https://i.imgur.com/JnN2x3h.jpg" alt="Gojo Manga Panel" height="230" width="90%" />
+</p>
