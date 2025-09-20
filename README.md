@@ -1,7 +1,7 @@
 # ⚔️ Yohanes Nevan
 
 <p align="center">
-  <img src="https://i.imgur.com/Yl3vJ1zl.jpg" width="600" alt="Gojo Satoru Manga">
+  <img src="https://i.imgur.com/Yl3vJ1zl.jpg" width="300" alt="Gojo Satoru Manga">
 </p>
 
 # 💻 Tech Stack:
