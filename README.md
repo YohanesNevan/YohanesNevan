@@ -11,7 +11,7 @@
 
 <div align="center">
   <!-- Ganti gambar berikut dengan panel Gojo manga kamu -->
-  <img src="https://giffiles.alphacoders.com/221/221617.gif" alt="Gojo Satoru Manga" style="height: 230px; width: 930px;" />
+  <img src="asset/gjosku.gif" alt="Gojo Satoru Manga" style="height: 230px; width: 930px;" />
 </div>
 
 <div align="center">
