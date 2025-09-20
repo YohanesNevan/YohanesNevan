@@ -21,14 +21,6 @@
 <!-- horizontal divider (gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YohanesNevan&color=brightgreen" alt="profile views" />
-  <img src="https://img.shields.io/badge/Age-XX-blue" alt="Age" />
-  <img src="https://img.shields.io/badge/Focus-Web+Dev%2C+Data-green" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Indonesia-brightgreen" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-English%2C+Bahasa+Indonesia-green" alt="Languages" />
-</p>
-
 <hr>
 
 # 💻 Tech Stack:
