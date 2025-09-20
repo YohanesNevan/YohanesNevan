@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- Ganti gambar berikut dengan panel Gojo manga kamu -->
-  <img src="assets/hi.gif" alt="" style="height: 240px; width: 930px;" />
+  <img src="assets/hi.gif" alt="" style="height: 260px; width: 930px;" />
 </div>
 
 <div align="center">
