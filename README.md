@@ -4,8 +4,7 @@
 <div align="center">
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
-    Hi Guys 
-    <a href="https://your-portfolio-link.netlify.app/" target="_blank">👋</a>
+    Hi Guys 👋
   </h2>
 </div>
 
