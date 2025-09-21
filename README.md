@@ -19,6 +19,17 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YohanesNevan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=YohanesNevan&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -28,17 +39,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YohanesNevan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=YohanesNevan&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanesNevan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
