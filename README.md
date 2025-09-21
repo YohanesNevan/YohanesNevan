@@ -14,7 +14,13 @@
 
 <!-- ✍️ Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+%F0%9F%91%8B;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer" alt="Headline" />
+
+  <!-- Untuk Light Mode (tulisan hitam) -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+👋;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer#gh-light-mode-only" alt="Headline Light" />
+
+  <!-- Untuk Dark Mode (tulisan emas) -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+👋;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer#gh-dark-mode-only" alt="Headline Dark" />
+
 </div>
 
 ---
