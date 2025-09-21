@@ -13,7 +13,7 @@
 
 <!-- 🖼️ Hero Image -->
 <div align="center">
-  <img src="assets/hi.gif" alt="mario" width="450" height="560" />
+  <img src="assets/hi.gif" alt="mario" width="90%" height="230" />
 </div>
 
 <!-- ✍️ Typing Intro -->
