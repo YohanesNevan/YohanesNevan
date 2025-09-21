@@ -14,7 +14,7 @@
 
 <!-- ✍️ Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+%F0%9F%91%8B;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+%F0%9F%91%8B;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer" alt="Headline" />
 </div>
 
 ---
