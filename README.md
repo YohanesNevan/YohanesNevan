@@ -21,9 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Yohanes+Nevan+%F0%9F%91%8B;Informatics+Student;Web+Dev+Enthusiast;Software+Engineer" alt="Headline" />
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="divider" />
-
 ---
 
 ## 💻 Tech Stack
