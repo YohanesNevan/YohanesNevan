@@ -13,7 +13,7 @@
 
 <!-- 🖼️ Hero Image -->
 <div align="center">
-  <img src="assets/hi.gif" alt="Gojo Anime Banner" width="930" height="260" />
+  <img src="assets/hi.gif" alt="mario" width="930" height="260" />
 </div>
 
 <!-- ✍️ Typing Intro -->
