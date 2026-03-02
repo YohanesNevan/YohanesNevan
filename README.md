@@ -32,7 +32,6 @@
 
 ---
 
-## 🙏 Thanks for Visiting!
 <p align="center">
   <img src="assets/gjosku.gif" alt="Gojo Manga Panel" width="90%" height="230" />
 </p>
